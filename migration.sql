@@ -1,0 +1,10 @@
+INSERT INTO `test`.`client` (`id`) VALUES ('1');
+INSERT INTO `test`.`client` (`id`) VALUES ('2');
+INSERT INTO `test`.`client` (`id`) VALUES ('3');
+INSERT INTO `test`.`client` (`id`) VALUES ('4');
+INSERT INTO `test`.`client` (`id`) VALUES ('5');
+INSERT INTO `test`.`client` (`id`) VALUES ('6');
+INSERT INTO `test`.`client` (`id`) VALUES ('7');
+INSERT INTO `test`.`client` (`id`) VALUES ('8');
+INSERT INTO `test`.`client` (`id`) VALUES ('9');
+INSERT INTO `test`.`client` (`id`) VALUES ('10');
